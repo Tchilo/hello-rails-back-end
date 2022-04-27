@@ -1,24 +1,22 @@
-# README
+# Greetings data base
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This project is only supposed to be used as an api and used in a react app click the link below to see it in action.
 
-Things you may want to cover:
+## [React App](https://github.com/Tchilo/hello-react-front-end)
 
-* Ruby version
 
-* System dependencies
+## Author
 
-* Configuration
+👤 **Tchilo**
 
-* Database creation
+- GitHub: [@Tchilo](https://github.com/Tchilo)
 
-* Database initialization
+## 🤝 Contributing
 
-* How to run the test suite
+Contributions, issues, and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+Feel free to check the [issues page](../../issues/).
 
-* Deployment instructions
+## Show your support
 
-* ...
+Give a ⭐️ if you like this project!
