@@ -7,14 +7,14 @@
 - ruby
 
 
-## Live Demo (not available)
+##  Link to where api is used
+### [React App](https://github.com/Tchilo/hello-react-front-end)
 
-## [React App](https://github.com/Tchilo/hello-react-front-end)
-
-### Usage
+## Usage
 
 Use only to fetch one greeting at a time use the endpoint below
 
+![](./api.png)
 ## Endpoint 
 ```
 https://hola-rails-backend.herokuapp.com/v1/greetings
